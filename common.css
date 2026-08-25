@@ -1,1 +1,91 @@
+/* h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {font-family: var(--ff-merriweather);font-weight: 900; line-height: 115.3%; margin: 0 0 var(--spac-20) 0;}
+h1, .h1{font-size: var(--fs-85);font-weight: 900;}
+h2, .h2{font-size: var(--fs-50);font-weight: 900;}
+h3, .h3{font-size: var(--fs-40);font-weight: 800;}
+h4, .h4{font-size: var(--fs-34);font-weight: 700;}
+h5, .h5{font-size: var(--fs-30);font-weight: 900;}
+h6, .h6{font-size: var(--fs-22);font-weight: 700;}
 
+.fs-85{font-size: var(--fs-85);font-family: var(--ff-merriweather);line-height: 115.3%;font-weight: 900;}
+.fs-50{font-size: var(--fs-50);font-family: var(--ff-merriweather);line-height: 115.3%;font-weight: 900;}
+.fs-40{font-size: var(--fs-40);font-family: var(--ff-merriweather);line-height: 115.3%;font-weight: 800;}
+.fs-34{font-size: var(--fs-34);font-family: var(--ff-merriweather-sans);line-height: 115.3%;font-weight: 700;}
+.fs-30{font-size: var(--fs-30);font-family: var(--ff-merriweather);line-height: 1.267;font-weight: 900;}
+.fs-22,.site-header .primary-nav{font-size: var(--fs-22);line-height: 115.3%;font-weight: 700;}
+.fs-20{font-size: var(--fs-20);font-weight: 400; font-family: var(--ff-arial);}
+.fs-18{font-size: var(--fs-18);font-family: var(--ff-merriweather-sans);line-height: calc(30/18);}
+.fs-16{font-size: var(--fs-16);} */
+/* Common website reset and base styles */
+/* * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+  color: #222;
+  background: #fff;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+.container {
+  width: min(1120px, calc(100% - 2rem));
+  margin: 0 auto;
+}
+
+section {
+  padding: 4rem 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1.2;
+  margin-bottom: 0.75rem;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+@font-face {
+    font-family: 'Arial', sans-serif;
+    src: url('fonts/ArialMT.eot');
+    src: url('fonts/ArialMT.eot?#iefix') format('embedded-opentype'),
+        url('fonts/ArialMT.woff2') format('woff2'),
+        url('fonts/ArialMT.woff') format('woff'),
+        url('fonts/ArialMT.ttf') format('truetype'),
+        url('fonts/ArialMT.svg#ArialMT') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+} */
