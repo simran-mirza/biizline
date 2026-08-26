@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Blog Listing | Biizline</title>
+  </head>
+
+  <body>
+    <header>
+      <nav>
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Services</a>
+        <a href="#">Contact</a>
+      </nav>
+    </header>
+    <main>
+      <!-- Banner :: START -->
+      <section class="section inner-banner-module cmn-fields-module">
+        <div class="wrapper">
+          <div class="img-block-box-row">
+            <div class="img-clm img-block-box-clm has-img-col">
+              <div class="img-blk">
+                <img src="../assets/images/blog-listing-banner.png" alt="blog listing banner image" />
+              </div>
+            </div>
+            <div class="content-clm img-block-box-clm has-img-col">
+              <div class="section-sub-heading fd-group">
+                <span class="sub-heading fs-14 fw-500"
+                  >BUILT FOR INDIAN B2B | NO MORE EVERYDAY JHIK-JHIK</span
+                >
+              </div>
+              <div class="section-heading fd-group">
+                <h1 class="heading fs-52 fw-700 gray-950-color">
+                  The Business Journal
+                </h1>
+              </div>
+              <div class="section-content fd-group gray-800-color fs-16">
+                <p>
+                 Welcome to <strong>Biizline’s Business Journal</strong>, Explore expert insights, industry trends, and practical strategies to help your business grow, adapt, and stay ahead in today's competitive market.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- Banner :: END -->
+    </main>
+    <footer>
+      <p>&copy; 2026 Biizline</p>
+    </footer>
+  </body>
+</html>
